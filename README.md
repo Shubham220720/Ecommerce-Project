@@ -3,7 +3,7 @@
 ![](Ecommerce_intro.jpeg)
 
 ## Welcome To The Olist Store
-Along with the rapid growth of the E-commerce business around the world, it made me curious to did an analysis project of an E-commerce from Brazil, called Olist. To analyze and derive insights to answer crucial questions and help the store make data driven decisions.
+This is a project to analyse on the customers, products and orders of the Brazilian E-commerce giant Olist.
 
 ## Dataset
 
@@ -112,5 +112,3 @@ The Report Comprises 3 Dashboards:
 - easy payment modes
 - product-specific offers
   
-
-# Recommendation: To better understand the Olist E-commerce market environment, we will need a longer period of datasets.
